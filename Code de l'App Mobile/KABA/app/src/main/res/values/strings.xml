@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">KABA</string>
+    <string-array name="Array_LAD">
+        <item>TAB992</item>
+        <item>TAB888</item>
+
+    </string-array>
+
+    <string-array name="Array_POSTE">
+        <item>poste1</item>
+        <item>poste2</item>
+
+    </string-array>
+
+    <string-array name="Array_COMPOSANT">
+        <item>douille P00160740</item>
+        <item>douille P00160763</item>
+        <item>douille P00160764</item>
+
+    </string-array>
+    <string name="dash">-</string>
+</resources>
